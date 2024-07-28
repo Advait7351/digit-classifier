@@ -1,1 +1,6 @@
+Digit Recognition Using Python and Kaggle Library
 
+Project Overview:
+Digit recognition is a classic problem in the field of machine learning and computer vision.
+The objective is to correctly identify handwritten digits from images, which can be a fundamental building block for more complex image recognition tasks.
+In this project, we leverage the Kaggle library to access the popular MNIST dataset, a well-known benchmark dataset for handwritten digit classification.
